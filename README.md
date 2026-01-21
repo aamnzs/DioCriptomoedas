@@ -5,7 +5,7 @@
     VS Code: https://code.visualstudio.com/download
     NodeJS : https://nodejs.org/pt-br
     Electrum: https://electrum.org/
-  # Realizar transações
-    Realizar transações
-    sites:
+    Blockchain.com
+    https://bitcoinfaucet.uo1.net/
+    
     
